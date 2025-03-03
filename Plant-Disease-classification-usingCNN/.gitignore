@@ -165,3 +165,8 @@ cython_debug/
 data/
 Plant-Disease-classification/data/
 **/Disease Dataset/
+
+# Large model files
+*.pth
+venv.zip
+venv/
