@@ -48,13 +48,13 @@ const Hero = () => {
               {/* Video Editing */}
             </div>
             <h1 className="mb-6 h1 text-p4 uppercase max-lg:mb-7 max-lg:h2 max-md:mb-4 max-md:text-5xl max-md:leading-12">
-            CaptionAI
+            FarmShield
             </h1>
             <h2 className="max-w-440 mb-14 body-1 max-md:mb-10">
-              "Transforming Images into Words with AI Precision
+            "Protect Your Crops with Precision"
             </h2>
             <p>
-            Upload an image, and let our AI-powered tool generate descriptive captions with precision.
+            Instant Disease Detection and Tailored Remedies
             </p>
             <input
               type="file"
@@ -63,7 +63,7 @@ const Hero = () => {
               onChange={handleFileChange}
             />
             <Button className="btn" onClick={handleButtonClick} icon="/images/zap.svg">
-              Try it now
+              Diagnose 
             </Button>
 
             {selectedFile && (

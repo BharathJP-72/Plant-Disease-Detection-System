@@ -41,7 +41,7 @@ const Header = () => {
     >
       <div className="container flex h-14 items-center max-lg:px-5">
         <a className="lg:hidden flex-1 cursor-pointer z-2">
-          <img src="/images/CaptionAI.png" width={215} height={55} alt="logo" />
+          <img src="/images/FarmShield.png" width={215} height={55} alt="logo" />
         </a>
 
         <div
@@ -70,10 +70,10 @@ const Header = () => {
                     )}
                   >
                     <img
-                      src="/images/CaptionAI.png"
+                      src="/images/FarmShield.png"
                       width={260}
                       height={55}
-                      alt="logo"
+                      alt="logo22"
                     />
                   </LinkScroll>
                 </li>
