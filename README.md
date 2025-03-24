@@ -34,7 +34,7 @@ The **Plant Disease Detection System** is a **MERN stack** and **Machine Learnin
 ## 🔄 Installation & Setup
 ### 1⃣ Clone the repository  
 ```sh
-git clone https://github.com/yourusername/Plant-Disease-Detection-System.git
+git clone https://github.com/BharathJP-72/Plant-Disease-Detection-System.git
 cd Plant-Disease-Detection-System
 ```
 
